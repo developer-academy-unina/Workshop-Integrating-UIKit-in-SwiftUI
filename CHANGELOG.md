@@ -1,0 +1,11 @@
+## CHANGELOG
+
+## Version 1.0.0 (2022-02-25)
+
+First release:
+
+* non-modal-App-Step1                  - Initial Commit
+* non-modal-App-Step2                  - Initial Commit
+* non-modal-App-Step3                  - Initial Commit
+* non-modal-App-Extra                  - Initial Commit
+* non-modal-App-Activity-Final         - Initial Commit
